@@ -26,9 +26,7 @@ namespace WFA210215_2
             InitializeComponent();
         }
 
-
-
-        #region test
+        #region teszt
         public void Test01()
         {
             using SqlConnection c = new(connectionString);
